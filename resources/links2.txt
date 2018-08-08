@@ -1,0 +1,15 @@
+link www.techcrunch.com
+link www.techcrunch.com/gadgets/
+link www.docs.oracle.com
+link www.cnn.com
+link www.money.cnn.com/technology/
+back
+back
+back
+back
+forward
+forward
+forward
+forward
+forward
+forward
